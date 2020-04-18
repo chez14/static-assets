@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://gitlab.com/chez14/static-assets/-/issues/new
+Encryption: https://gl-statis.konten.christianto.net/pgp/chris.pgp.asc
+Acknowledgments: https://gitlab.com/chez14/static-assets/-/issues?label_name%5B%5D=security
+Preferred-Languages: en, id
+Canonical: https://gl-statis.konten.christianto.net/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEECe1yA/Nm+10KRIoH2jYPnvdUP8wFAl6avWIACgkQ2jYPnvdU
+P8wrfA//dGpm+WYJI0kzabE8tkrsPwT8zN7jj6aJHbGUUn7v6UV3snAn8of2w3Jo
+6vsk+xEBMCUiY2Hwa4PJUfeG05zIUFptF6P6891+YnfcR/C1sFFmTIkGasUJlsJe
+FTOi0h25yNsbOdjVUV1g4PQsEj1xzHF6FiaR7xhSl1xk03B0EWdY0/X4+UeMWyYJ
+FEvpNxX75u6fp7Zx8TYSqFz6FVLLUUjF3C/Tt4B2jhhaan7XTh3wft6gVZTxsPve
+xLYpTJc1s8edQoTLAEACITry1VxA/kRpVQ8e0fcNnLfcR9vtPiT1Q9CT7fkm9xCx
+LwQKn558u+InbEws+6UL3eEenkVGCP9ZRyNnjGiXkJceNEkGFDxTtR0efv80gEB9
+VZ8xRgzhq3Ft72WgXMiiwLg5xXWCj05/kxjl1nvIX7+Ppllwt6gw2q55/6Vlx572
+tWrvOgZnOcmtEpr1sBJo+LJczJv2BETbg5p7GSfZSCsBuIAzrxLPz4hS4+ASOShB
+2Dsf9D0CWLnr2Di4UoWKiwiSa8qdHmlNc26voPTvVN+oBet8kcXfNUsORPexLBCR
+SXHW34Ea+rVCmEf71YrCg4K57qQP7+X8WUqxUFPJdclZjtHtZ53nFQfOI2pC2RJs
+IKN3XzC/cLbNIJSdCulNYhHZc7TBnVniVtJv6UAiMQj84sWsVyo=
+=sWJe
+-----END PGP SIGNATURE-----

@@ -1,0 +1,11 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+    - date "+%H:%M:%S   %d/%m/%y"
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
