@@ -4,7 +4,7 @@ This repository are intended to give me a robust, flexible, free, high-uptime co
 
 This might also intended to hold things such as signed documents, signed statement or other things that doesn't need dynamic content server.
 
-This repo is served under domain `https://gh-statis.konten.christianto.net. All SSL certificates will be governed by GitHub via [Pages's SSL setting](https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https).
+This repo is served under domain `https://gh-statis.konten.christianto.net/`. All SSL certificates will be governed by GitHub via [Pages's SSL setting](https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https).
 
 ## Relevant Links
 
